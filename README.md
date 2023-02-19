@@ -2,7 +2,7 @@
   <h1>blendhit</h1>
 
   <p>
-    <strong>Decentralized 3D & Animation Studio</strong>
+    <strong>Decentralized 3D Asset Store</strong>
   </p>
 
   <p>
@@ -27,4 +27,4 @@
 
 
 # Notes
-- Blendhit is a decentralized 3D & Animation Studio under active development. All interfaces and implementations are subject to change. 
+- Blendhit is a decentralized 3D & Animation Studio under active development providing 3D assets for DiscoSea Marketplace. All interfaces and implementations are subject to change. 
