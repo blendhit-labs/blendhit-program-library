@@ -27,4 +27,5 @@
 
 
 # Notes
-- Blendhit is a decentralized 3D & Animation Studio under active development providing 3D assets for DiscoSea Marketplace. All interfaces and implementations are subject to change. 
+- Blendhit is a decentralized 3D Asset Store under active development. 
+- All interfaces and implementations are subject to change. 
