@@ -6,7 +6,7 @@
   </p>
 
   <p>
-    <a href="https://discord.gg/jjCqXtcRb4"><img alt="Discord Chat" src="https://img.shields.io/discord/889725689543143425?color=blueviolet" /></a>
+    <a href="https://discord.gg/jjCqXtcRb4"><img alt="Discord Chat" src="https://img.shields.io/discord/970102556346970132?color=blueviolet" /></a>
     <a href="https://www.gnu.org/licenses/agpl-3.0.en.html"><img alt="License" src="https://img.shields.io/github/license/clockwork-xyz/clockwork?color=turquoise" /></a>
   </p>
 
