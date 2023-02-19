@@ -28,4 +28,7 @@
 
 # Notes
 - Blendhit is a decentralized 3D Asset Store under active development. 
-- All interfaces and implementations are subject to change. 
+- Chat with us on Discord to get more info.
+
+# Sister Project 
+-DiscoSea Marketplace
