@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>blednhit</h1>
+  <h1>blendhit</h1>
 
   <p>
     <strong>Decentralized 3D Asset Store</strong>
