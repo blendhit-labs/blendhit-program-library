@@ -2,7 +2,7 @@
   <h1>blendhit</h1>
 
   <p>
-    <strong>Decentralized 3D Asset Store</strong>
+    <strong>Decentralized 3D & Animation Studio</strong>
   </p>
 
   <p>
