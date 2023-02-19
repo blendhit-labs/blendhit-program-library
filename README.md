@@ -25,10 +25,9 @@
 | ------- | ------ | ------ | ------- |
 | blendhit_escrow | `Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED` | [v0.0.0](https://explorer.solana.com/address/Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED?cluster=devnet) | coming soon |
 
+# Sister Project 
+- DiscoSea Marketplace : https://twitter.com/disco_sea
 
 # Notes
 - Blendhit is a decentralized 3D Asset Store under active development. 
 - Chat with us on Discord to get more info.
-
-# Sister Project 
-- DiscoSea Marketplace
