@@ -23,7 +23,7 @@
 # Deployments
 | Program | Address| Devnet | Mainnet |
 | ------- | ------ | ------ | ------- |
-| blendhit_escrow | `Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED` | [v0.0.0](https://explorer.solana.com/address/Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED?cluster=devnet) | [v0.0.0]coming soon |
+| blendhit_escrow | `Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED` | [v0.0.0](https://explorer.solana.com/address/Gp8jGWmHozwDpX3g1PQ6TTPazTAx3vddvQ8jxB5uKaED?cluster=devnet) | [ coming soon |
 
 
 # Notes
