@@ -31,4 +31,4 @@
 - Chat with us on Discord to get more info.
 
 # Sister Project 
--DiscoSea Marketplace
+- DiscoSea Marketplace
